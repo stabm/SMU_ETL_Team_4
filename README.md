@@ -6,6 +6,10 @@ We are performing ETL on datasets for opioid overdose deaths in all US states. W
 
 overdoses.csv | prescriber-info.csv | raw_data.csv
 
+https://www.kaggle.com/apryor6/us-opiate-prescriptions#prescriber-info.csv
+
+https://www.cdc.gov/media/releases/2015/p1218-drug-overdose.html
+
 ### Data ETL
 We extracted our csv files into pandas dataframes and selected columns to keep and rename for analysis. We checked for duplicate and null values in all csvs; only two rows from the age_adjusted_rate dataframe dropped. We created tables in pgAdmin with SQL queries and established a connection to PostgreSQL to load our final dataframes. We confirmed the upload by taking SQL queries in Jupyter Notebook. 
 
@@ -17,3 +21,4 @@ Our overdose and prescriber data is aggregated by state, rather than location. W
 Our data only identifies registered medical providers and not illicit street-corner dealers. An unknown number of opioid overdoses could be attributed to 'dirty' opioids tainted with other illicit drugs. 
 Our data does not identify the cause of injury that generated a need for opioid medication or whether the patient's career carries a higher statistical risk of injury, i.e. construction. 
 Our data does not identify the month of death to view if rates of death increase during certain times of year. 
+
