@@ -22,3 +22,9 @@ Our data only identifies registered medical providers and not illicit street-cor
 Our data does not identify the cause of injury that generated a need for opioid medication or whether the patient's career carries a higher statistical risk of injury, i.e. construction. 
 Our data does not identify the month of death to view if rates of death increase during certain times of year. 
 
+TEAM MEMBERS:
+[Ahmed Gurbuz](https://github.com/ahmedgurbuz "Ahmed Gurbuz") </br>
+[Hena Venu](https://github.com/ "Hena Venu") </br>
+[Issac Vilchis](https://github.com/Issac-Vilchis "Issac Vilchis") </br>
+[Marina Staber](https://github.com/stabm "Marina Staber") </br>
+[Mike Hughes](https://github.com/brokerace "Mike Hughes") 
